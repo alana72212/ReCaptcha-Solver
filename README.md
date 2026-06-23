@@ -16,7 +16,7 @@ Once the data is injected, it runs a "warmup" by running a quick, randomized, go
 
 # Usage
 
-This porject comes with an `api.py` file so you can instantly just run and serve it, however, for local use (just import the `solver` package) there is an example below: 
+This project comes with an `api.py` file so you can instantly just run and serve it, however, for local use (just import the `solver` package) there is an example below: 
 
 ```
 from solver import Solver
