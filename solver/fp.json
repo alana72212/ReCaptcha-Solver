@@ -1,0 +1,143 @@
+{
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+    "userAgentData": {
+        "brands": [
+            {
+                "brand": "Chromium",
+                "version": "148"
+            },
+            {
+                "brand": "Google Chrome",
+                "version": "148"
+            },
+            {
+                "brand": "Not-A.Brand",
+                "version": "99"
+            }
+        ],
+        "fullVersionList": [
+            {
+                "brand": "Chromium",
+                "version": "148.0.7778.96"
+            },
+            {
+                "brand": "Google Chrome",
+                "version": "148.0.7778.96"
+            },
+            {
+                "brand": "Not-A.Brand",
+                "version": "99.0.0.0"
+            }
+        ],
+        "mobile": false,
+        "platform": "Windows",
+        "platformVersion": "15.0.0",
+        "architecture": "x86",
+        "bitness": "64",
+        "model": "",
+        "uaFullVersion": "148.0.7778.96",
+        "wow64": false
+    },
+    "screen": {
+        "Width": 1280,
+        "Height": 720,
+        "availableWidth": 1280,
+        "availableHeight": 672,
+        "devicePixelRatio": 1.5,
+        "colorDepth": 32,
+        "pixelDepth": 32,
+        "innerWidth": 1280,
+        "innerHeight": 551,
+        "outerWidth": 1280,
+        "outerHeight": 672,
+        "screenOrientationType": "landscape-primary",
+        "screenOrientationAngle": 0,
+        "isFullScreen": false
+    },
+    "DeviceInfo": {
+        "Platform": "Win32",
+        "HardwareConcurrency": 9,
+        "deviceMemory": 16,
+        "maxTouchPoints": 0
+    },
+    "Language": {
+        "Languages": [
+            "en-US",
+            "en"
+        ],
+        "Language": "en-US"
+    },
+    "MediaInput": {
+        "Speakers": 1,
+        "Micros": 0,
+        "WebCams": 1
+    },
+    "Plugins": [
+        "PDF Viewer",
+        "Chrome PDF Viewer",
+        "Chromium PDF Viewer",
+        "Microsoft Edge PDF Viewer",
+        "WebKit built-in PDF"
+    ],
+    "GPU": {
+        "Vendor": "Google Inc. (NVIDIA)",
+        "Renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    "Battery": {
+        "charging": true,
+        "chargingTime": 0,
+        "dischargingTime": null,
+        "level": 0.94
+    },
+    "Voices": [
+        {
+            "name": "Microsoft David - English (United States)",
+            "lang": "en-US",
+            "default": true,
+            "localService": true,
+            "voiceURI": "Microsoft David - English (United States)"
+        },
+        {
+            "name": "Microsoft Mark - English (United States)",
+            "lang": "en-US",
+            "default": false,
+            "localService": true,
+            "voiceURI": "Microsoft Mark - English (United States)"
+        },
+        {
+            "name": "Microsoft Zira - English (United States)",
+            "lang": "en-US",
+            "default": false,
+            "localService": true,
+            "voiceURI": "Microsoft Zira - English (United States)"
+        },
+        {
+            "name": "Google US English",
+            "lang": "en-US",
+            "default": false,
+            "localService": false,
+            "voiceURI": "Google US English"
+        },
+        {
+            "name": "Google UK English Female",
+            "lang": "en-GB",
+            "default": false,
+            "localService": false,
+            "voiceURI": "Google UK English Female"
+        },
+        {
+            "name": "Google UK English Male",
+            "lang": "en-GB",
+            "default": false,
+            "localService": false,
+            "voiceURI": "Google UK English Male"
+        }
+    ],
+    "Connection": {
+        "effectiveType": "4g",
+        "rtt": 50,
+        "downlink": 10,
+        "saveData": false,
+        "type": "wifi"
+    }
+}
